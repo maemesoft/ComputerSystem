@@ -23,7 +23,7 @@ $(document).ready(function(){
 
 
     $("#menu_1").click(function(){
-        location.href="index.html";
+        location.href="intro.html";
     });
     $("#menu_2").click(function(){
         location.href="detail.html";
