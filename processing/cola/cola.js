@@ -38,7 +38,7 @@ function draw() {
 
   if (visibleCount != tmp_visibleCount) {
     visibleCount = tmp_visibleCount;
-    document.getElementById('DDI').textContent = '앤디 워홀 - ' + visibleCount + '개의 콜라병';
+    document.getElementById('DDI').textContent = '앤디 워홀 - ' + visibleCount + '개의 코카콜라병';
   }
 
   
